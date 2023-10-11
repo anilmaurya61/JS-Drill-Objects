@@ -1,0 +1,12 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "JS Drill: Objects",
+  "type": "module",
+  "main": "JS Drill: Objects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
